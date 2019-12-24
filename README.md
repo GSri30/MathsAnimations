@@ -5,7 +5,6 @@ You can follow the following link (3blue1brown 's youtube channel) to get an ess
 You can look into these animations by:
 <ul>
   <li>Head over to location where that particular animation_name.py is present and select the scene you want to play</li>
-  <li>Now execute by typing  manim animation_name.py scene_name -pl (to preview low)    
-                             manim animation_name.py scene_name -p (to preview in high)</li>
+  <li>Now execute by typing  manim animation_name.py scene_name -pl (to preview low) manim animation_name.py scene_name -p (to preview in high)</li>
 </ul>
 Hope you get something out of it..
