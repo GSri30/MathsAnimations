@@ -11,7 +11,8 @@
 ## Install
 
 ```sh
-sudo apt install libcairo2-dev ffmpeg sox texlive-full                                                   python3 -m pip install manimlib
+sudo apt install libcairo2-dev ffmpeg sox texlive-full        
+python3 -m pip install manimlib
 ```
 
 ## Usage
