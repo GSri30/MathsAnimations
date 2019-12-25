@@ -33,4 +33,4 @@ clone the particular topic repository and run manim animationName.py animationCl
 Give a ⭐️ if this project helped you!
 
 ***
-_This README was generated with ❤️ 
+This README was generated with ❤️ 
