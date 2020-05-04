@@ -28,7 +28,7 @@ clone the particular topic repository and run manim animationName.py animationCl
 
 ## 📝 License
 
-This project is [MIT License](https://github.com/GSri30/MathsAnimations/blob/master/LICENSE) licensed.
+This project is [MIT](https://github.com/GSri30/MathsAnimations/blob/master/LICENSE) licensed.
 
 ## Show your support
 
